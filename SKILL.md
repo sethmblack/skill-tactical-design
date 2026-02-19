@@ -3,8 +3,9 @@ name: tactical-design
 description: Design specific actions that surprise opponents, engage participants, and achieve concrete objectives—transforming vague intentions into executable plans with built-in contingencies.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5130
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - tactical-design
